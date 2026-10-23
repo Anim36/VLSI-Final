@@ -1,0 +1,6 @@
+work	"acc_z_reg.vhd"
+work	"alu.vhd"
+work	"control_unit.vhd"
+work	"cpu.vhd"
+work	"pc.vhd"
+work	"prog_rom.vhd"

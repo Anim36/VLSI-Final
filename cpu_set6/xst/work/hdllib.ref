@@ -1,0 +1,12 @@
+AR prog_rom behavioral "/home/ise/shared/untitled folder/project/cpu_set6/prog_rom.vhd" sub00/vhpl03 1792769653
+AR control_unit behavioral "/home/ise/shared/untitled folder/project/cpu_set6/control_unit.vhd" sub00/vhpl05 1792769655
+AR acc_z_reg behavioral "/home/ise/shared/untitled folder/project/cpu_set6/acc_z_reg.vhd" sub00/vhpl09 1792769659
+EN cpu NULL "/home/ise/shared/untitled folder/project/cpu_set6/cpu.vhd" sub00/vhpl10 1792769660
+EN pc NULL "/home/ise/shared/untitled folder/project/cpu_set6/pc.vhd" sub00/vhpl00 1792769650
+EN acc_z_reg NULL "/home/ise/shared/untitled folder/project/cpu_set6/acc_z_reg.vhd" sub00/vhpl08 1792769658
+EN prog_rom NULL "/home/ise/shared/untitled folder/project/cpu_set6/prog_rom.vhd" sub00/vhpl02 1792769652
+AR cpu structural "/home/ise/shared/untitled folder/project/cpu_set6/cpu.vhd" sub00/vhpl11 1792769661
+AR alu behavioral "/home/ise/shared/untitled folder/project/cpu_set6/alu.vhd" sub00/vhpl07 1792769657
+EN control_unit NULL "/home/ise/shared/untitled folder/project/cpu_set6/control_unit.vhd" sub00/vhpl04 1792769654
+AR pc behavioral "/home/ise/shared/untitled folder/project/cpu_set6/pc.vhd" sub00/vhpl01 1792769651
+EN alu NULL "/home/ise/shared/untitled folder/project/cpu_set6/alu.vhd" sub00/vhpl06 1792769656

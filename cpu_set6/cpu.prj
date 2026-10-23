@@ -1,0 +1,6 @@
+vhdl work "prog_rom.vhd"
+vhdl work "pc.vhd"
+vhdl work "control_unit.vhd"
+vhdl work "alu.vhd"
+vhdl work "acc_z_reg.vhd"
+vhdl work "cpu.vhd"

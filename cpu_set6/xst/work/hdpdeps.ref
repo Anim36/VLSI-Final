@@ -1,0 +1,41 @@
+V3 23
+FL "/home/ise/shared/untitled folder/project/cpu_set6/acc_z_reg.vhd" 2026/10/23.15:28:05 P.20131013
+EN work/acc_z_reg 1792769658 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/acc_z_reg.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/acc_z_reg/Behavioral 1792769659 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/acc_z_reg.vhd" \
+      EN work/acc_z_reg 1792769658
+FL "/home/ise/shared/untitled folder/project/cpu_set6/alu.vhd" 2026/10/23.15:26:51 P.20131013
+EN work/alu 1792769656 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/alu.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/alu/Behavioral 1792769657 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/alu.vhd" EN work/alu 1792769656
+FL "/home/ise/shared/untitled folder/project/cpu_set6/control_unit.vhd" 2026/10/23.15:25:51 P.20131013
+EN work/control_unit 1792769654 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/control_unit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/control_unit/Behavioral 1792769655 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/control_unit.vhd" \
+      EN work/control_unit 1792769654
+FL "/home/ise/shared/untitled folder/project/cpu_set6/cpu.vhd" 2026/10/23.15:32:23 P.20131013
+EN work/cpu 1792769660 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/cpu.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/cpu/Structural 1792769661 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/cpu.vhd" EN work/cpu 1792769660 \
+      CP pc CP prog_rom CP control_unit CP alu CP acc_z_reg
+FL "/home/ise/shared/untitled folder/project/cpu_set6/pc.vhd" 2026/10/23.15:23:03 P.20131013
+EN work/pc 1792769650 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/pc.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/pc/Behavioral 1792769651 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/pc.vhd" EN work/pc 1792769650
+FL "/home/ise/shared/untitled folder/project/cpu_set6/prog_rom.vhd" 2026/10/23.15:24:25 P.20131013
+EN work/prog_rom 1792769652 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/prog_rom.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/prog_rom/Behavioral 1792769653 \
+      FL "/home/ise/shared/untitled folder/project/cpu_set6/prog_rom.vhd" \
+      EN work/prog_rom 1792769652
